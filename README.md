@@ -1,7 +1,6 @@
 # Frontend Mentor - Order Summary Card solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
-Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -33,8 +32,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/1st-project-replicated-the-design-using-html-and-css-G9oeFOPNH)
-- [Live Site URL](https://pcardas.github.io/frontendmentor-profile-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-order-summary-card-CTLFA8S8V)
+- [Live Site URL](https://pcardas.github.io/frontendmentor-order-summary-component/)
 
 ## My process
 
@@ -43,7 +42,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Grid
+- CSS Grid
 - Desktop-first workflow
 
 ### What I learned
